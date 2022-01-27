@@ -1,1 +1,2 @@
 # HealthyRidePGH_Project
+This is a simple Jupyter notebook using Python to extract data from three separate CSV regarding HealthyRidePGH (bike program in Pittsburgh). First historical data is gathered such as the counts of bikes at stations. I then use matlibplot to display graphs that contain interesting information about the usage of the bikes. The project is then concluded by using k-means clustering and dbscan to cluster the data. An elbow method performance metric is applied to figure out the best k-means clustering technique to use.
